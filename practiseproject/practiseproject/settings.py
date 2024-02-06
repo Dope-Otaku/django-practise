@@ -41,7 +41,8 @@ INSTALLED_APPS = [
 
 EXTERNAL_APPS = [
     'app1',
-    'app2'
+    'app2',
+    'todoapp'
 ]
 
 INSTALLED_APPS += EXTERNAL_APPS
